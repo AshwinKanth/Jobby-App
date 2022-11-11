@@ -1,0 +1,23 @@
+.similar-job-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #64748b;
+  padding: 20px;
+  margin-right: 95px;
+  border-radius: 10px;
+  width: 320px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.star-container {
+  display: flex;
+  align-items: center;
+}
+.company-logo {
+  width: 100px;
+  padding-right: 20px;
+}

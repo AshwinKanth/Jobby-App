@@ -1,0 +1,39 @@
+.header-container {
+  background-color: #202020;
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.content-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-content-container {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+.websiteLogo {
+  width: 140px;
+}
+.nav-item {
+  color: #ffffff;
+  padding-left: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.logout-button {
+  height: 35px;
+  width: 100px;
+  background-color: #6366f1;
+  color: #ffffff;
+  font-weight: bold;
+  outline: none;
+  border-width: 0px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-left: 350px;
+}

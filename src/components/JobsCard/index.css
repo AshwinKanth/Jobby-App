@@ -1,0 +1,95 @@
+.job-list-item {
+  background-color: #272727;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  max-width: 700px;
+}
+.job-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.title-rating-container {
+  display: flex;
+  flex-direction: column;
+}
+.rating-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.compony-logo {
+  width: 80px;
+  margin-right: 20px;
+}
+.title {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.star-icon {
+  color: #fbbf24;
+  height: 25px;
+  width: 25px;
+}
+.rating {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding-left: 10px;
+}
+.location-container {
+  display: flex;
+  align-items: center;
+}
+.location-icon {
+  color: #ffffff;
+}
+.location {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
+.details-container {
+  display: flex;
+  justify-content: space-between;
+}
+.location-type-container {
+  display: flex;
+}
+.job-type-container {
+  display: flex;
+  align-items: center;
+  padding-left: 40px;
+}
+.employmentType {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
+.type-icon {
+  color: #ffffff;
+}
+.packagePerAnnum {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.description-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.jobDescription {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.job-link-item {
+  list-style-type: none;
+  text-decoration: none;
+}
